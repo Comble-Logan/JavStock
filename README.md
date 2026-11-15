@@ -38,8 +38,8 @@ The project is organized into four java packages :
   * `PackageArticle` (Class) : Represents a package containing a specific article and a quantity
   * `Pallet` (Class) : Represents a standard pallet with a packing list  
 * `StorageLocation` (Abstract Class) : Defines the basis of a storage area
-  * `StorageLocationPicking (Class)` : Represents the picking zones at level 0
-  * `StorageLocationReserve (Class)` : Represents the reserve zones
+  * `StorageLocationPicking` (Class) : Represents the picking zones at level 0
+  * `StorageLocationReserve` (Class) : Represents the reserve zones
 * `StorageLocationRack` (Class) : Represents the storage racks in the warehouse
 
 ### Exception
