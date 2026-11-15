@@ -81,7 +81,7 @@ Polymorphism is used primarily for managing locations. The locations are stored 
 
 Several custom exceptions have been created to provide a better understanding of what is being thrown :
 
-* Exceeded or Empty exception : `EmptyException` + `CapacityExceededException`, `WeightExceededException`
+* Exceeded or Empty exception : `EmptyException` , `CapacityExceededException`, `WeightExceededException`
 
 * Not found exception : `ArticleNotFoundException`, `PackageNotFoundException`, `PalletNotFoundException`, `RackNotFoundException`
 
@@ -132,6 +132,6 @@ JavStock/
 
 The project uses JUnit 5 for several unit tests covering workflows and rule exceptions.
 
-### IntelliJ IDE
+### In IntelliJ IDE
 * 1\. Right-click on the `src/test/java` directory
 * 2\. Select **Run 'All Tests'**
