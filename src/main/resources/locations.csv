@@ -1,0 +1,7 @@
+rackId;locationId;type;level;weightMax;palletId
+Rck1;R1-0;Picking;0;1000.0;Pal1
+Rck1;R1-1;Reserve;1;1000.0;Pal2
+Rck2;R2-0;Picking;0;1000.0;Pal3
+Rck2;R2-1;Reserve;1;1000.0;None
+Rck3;R3-0;Picking;0;1000.0;Pal4
+Rck3;R3-1;Reserve;1;1000.0;None

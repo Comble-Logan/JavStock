@@ -1,0 +1,6 @@
+id;name;reference;weight;length;width;height;type;fragilityLevel
+Art1;Flower pot;ART-FWP-245;1.8;30.0;30.0;55.0;Fragile;2
+Art2;Mirror;ART-MRO-235;9.0;70.0;5.0;140.0;Fragile;4
+Art3;Trash bin;ART-TSB-358;4.0;30.0;35.0;50.0;Standard;0
+Art4;TV stand;ART-TVS-928;35.0;160.0;45.0;40.0;Standard;0
+Art5;TV screen;ART-STV-224;18.0;134.0;7.0;75.0;Fragile;3

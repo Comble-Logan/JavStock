@@ -1,0 +1,9 @@
+id;articleId;quantity;quantityMax;emptyWeight;length;width;height;palletId
+Pkg1;Art1;1;2;0.1;70.0;70;58.0;Pal1
+Pkg2;Art1;2;2;0.1;70.0;70;58.0;Pal2
+Pkg3;Art1;2;2;0.1;70.0;70;58.0;Pal2
+Pkg4;Art2;1;1;0.18;75.0;8.0;145.0;Pal3
+Pkg5;Art3;2;3;0.1;95.0;110.0;52.0;Pal4
+
+
+
